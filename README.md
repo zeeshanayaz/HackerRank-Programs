@@ -1,2 +1,6 @@
-# HackerRank-Programs
-HackerRank Problem Solving Programs
+# HackerRank Programs
+
+## Problem Solving (Basic)
+
+- [x] [Unexpected Demand](/src/ProblemSolvingBasic/UnexpectedDemand.java) 
+
